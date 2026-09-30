@@ -1,8 +1,8 @@
-# 9
+# Page 9
 
 ## Gameplay: Resolution
 
-Players resolve each step of the Resolution phase in order together.  
+Players resolve each step of the Resolution phase in order together.\
 The steps are listed in order with reminders on the back of each player's skill reference.
 
 > We recommend one player reads them aloud and waits for each player to finish before advancing to the next step.
@@ -23,7 +23,7 @@ Add up the strength of all the potions in your dungeon and gain that amount of h
 
 You may not exceed **10 health** — for each point you would gain above 10, instead gain an XP.
 
----
+***
 
 ## Dungeon Play Example — Continued
 
@@ -43,12 +43,8 @@ After placing the Depths map, they now decide whether to stop or continue. They 
 
 If they finish the Depths map, they'll get to draw another Depths!
 
----
+***
 
 ## Visual reference
 
 The original page is included below for the exact map/chip arrangement and illustrations:
-
-![Original page 9](pagina_9_satchel_quest.png)
-
-
