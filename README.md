@@ -8,6 +8,11 @@
 - Página 8 - Skills and Tools --> Andy Tutistar
 - Página 9 - Dungeon play --> Christian Kohler
 - Página 10 - Chests --> Dicac Ucero
+- Página 11 - Mechanics --> Javier Garcia
+- Página 12 - Attack Monsters --> Lucas Martín
+- Página 13 - Objets --> Javier García
+- Página 14 -  --> María Fernanda
 - Página 15 - Camp, Path... --> Jesús Rodriguez
+- Página 16 - Actions --> Jorge Bidal
 - Página 17 - Village Turn Example --> Antonio Fernández
 - Página 18 - Glossary, Path, and Skill Clarifications --> Tomás Kos

@@ -1,10 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Actividad Practica
+  title: u-tad Docs
   structure:
     - type: space
-      key: docs-en
-      title: English
-      path: docs
+      key: space-1
+      title: Untitled
+      path: untitled
+      default: true
       content:
-        directory: ./
+        directory: null
